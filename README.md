@@ -1,4 +1,4 @@
-https://github.com/ValeriaP02/sales-bonus#
+https://github.com/ValeriaP02/sales-bonus
 
 # Проектная работа "Пряники"
 5 спринт, модуль JS
